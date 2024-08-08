@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Setup Instructions</title>
-</head>
 <body>
 
 <h1>Setup Instructions</h1>
